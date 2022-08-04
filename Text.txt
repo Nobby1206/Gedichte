@@ -2,8 +2,10 @@
 Farbpalette
 
 Grün
+Rot
 Gelb
 Blau
+Magenta
 Sind alles tolle
 Farben
 
